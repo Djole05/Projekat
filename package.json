@@ -1,0 +1,20 @@
+{
+  "name": "blogovi",
+  "version": "1.0.0",
+  "description": "Web aplikacija za blogove",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djole05/Projekat"
+  },
+  "author": "Djordje Mitrovic, Nikola Prekovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djole05/Projekat/issues"
+  },
+  "homepage": "https://github.com/Djole05/Projekat#readme"
+}
