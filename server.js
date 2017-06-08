@@ -88,5 +88,5 @@ function OdgovorNaZahtev(request,response){
 }
 var port = process.env.PORT || 9999;
 var server = http.createServer(OdgovorNaZahtev);
-server.listen(potr);
+server.listen(port);
 console.log("Server ceka zahteve na portu "+port);
