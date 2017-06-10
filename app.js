@@ -46,7 +46,7 @@ function PosaljiBlog(e){
   function PrikaziOdgovorNaPoruku(odgovor){
   var odgovor2 = JSON.parse(odgovor);
 
-  var tekst += "<section> <h1>" + odgovor2.naslov + "</h1>";
+  var tekst = "<section> <h1>" + odgovor2.naslov + "</h1>";
   //document.getElementById("blogovi").innerHTML +=  "<h3>" + odgovor2.autor + "</h3>";
   tekst += "<h3>" + odgovor2.autor + "</h3>";  
   tekst += "<p>" + odgovor2.blog + "</p>"; 
