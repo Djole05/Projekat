@@ -1,1 +1,9 @@
-[{"autor":"Djordje","email":"jovanica944@gmail.com","naslov":"F1 Srbija","blog":"szdfzdfzfzfzfzfzfzf"},{"autor":"Nikola","email":"asda@zsdfds","naslov":"asdasdf","blog":"ghgfhfghgfh"},{"autor":"Marko","email":"djordje@gmail.com","naslov":"dhfgthfgh","blog":"ghgfhfghgfh fg f hgf hfg hfg hgfh"}]
+[{"autor":"Đorđe","email":"djole@gmail.com","naslov":"F1 Blog","blog":"Šef Honde odgovorio je na kritike koje su stigle od strane njihovog partnera.
+
+Jedan od vodećih ljudi McLarena, Zak Brown, kazao je pre nekoliko dana da je Honda izgubila kompas u svetu Formule 1 i da će zbog toga uskoro možda biti primorani da donesu neke veoma teške odluke. Ipak, sa druge strane Yusuke Hasegawa dodao je da razume ljude iz McLarena kao i da će oni učini sve kako bi spasili njihov odnos sa McLarenom.
+
+“Nažalost, mi njih još ne možemo da ih ubedimo da možemo da budemo najbolji. Sa rezultatske tačke gledišta tačno je da nam treba još puno prostora za napredak, jer su nam performanse i pouzdanost dosta slabi. Naravno da pričamo jedni o drugima, postoji razočaranje, jer ovi rezultati ne zadovoljavaju niti jednu stranu. Tako nije sada situacija da odgovaram na određene komentare, ali svi pokušavamo da poboljšamo stvari i želimo da idemo u istom smeru.” kazao je prvi čovek Honde.
+
+McLaren u poslednje vreme stvari veliki pritisak na Hondu kako bi poboljšala svoje performanse, ali japanski proizvođač nije uspeo da donese dugo najavljivana nova poboljšanja na svom agregatu za VN Kanade.
+
+“To ćemo upotrebiti kada ona budu bila spremna, ali nažalost to se neće desiti ovde. Svi u Japanu rade naporno na tome i trudićemo se što ranije da ih upotrebimo.” dodao je Hasegawa."},{"autor":"Nikola","email":"asda@zsdfds","naslov":"asdasdf","blog":"ghgfhfghgfh"},{"autor":"Marko","email":"djordje@gmail.com","naslov":"dhfgthfgh","blog":"ghgfhfghgfh fg f hgf hfg hfg hgfh"}]
